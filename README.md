@@ -1,2 +1,3 @@
 # prepcourse-henry1
-repositorio de prueba del modulo 2 del prep couse de henry
+Maria Emilia Boric 
+este proyecto es una prueba para crear un repositorio desde la web y clonarlo a mi pc 
